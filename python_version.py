@@ -7,3 +7,6 @@ if 5>2:
  #I was hungry and it sounded like a good idea
  print (x)
  print(y)
+z = 2.5
+print(str(z))
+print(int(z))
